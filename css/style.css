@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.text-color{
+    color: #0a3622;
+}
+
+.text-color:hover{
+    color: #1f9660;
+    transition: all .5s ease-in-out;
+}
+
+.texto-1{
+display: flex;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #000;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.texto-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.img-c{
+    display: flex;
+    width: 67px;
+    height: 58px;
+    flex-shrink: 0;
+    align-items: center;
+}
+
+.card-b{
+background-color: #ffff;
+}
+
+.card-tex{
+width: 194px;
+height: 171px;
+flex-shrink: 0;
+}
+
+.text-te{
+color: #000;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+
+.text-color{
+    color: #0a3622;
+}
+
+.hover-item{
+    width: 90px;
+    height: 50px;
+}
+
+i{
+    color:black
+}
+
+i:hover{
+    color: #0a3622;
+}
+
+.registro{
+    font-weight: 800;
+    text-decoration: none;
+    color: #075733;
+}
+
+.registro:hover{
+    color: rgb(0, 153, 69);
+    transition: 0.9s;
+}
